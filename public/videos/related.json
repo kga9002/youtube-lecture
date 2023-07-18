@@ -1,0 +1,627 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "NZF6XY-qdrwsHeomFigahFGAN7M",
+  "nextPageToken": "CA8QAA",
+  "pageInfo": {
+    "totalResults": 171,
+    "resultsPerPage": 15
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fyjznW7n2L1E0jXrZ1ogJ76HFkg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SRyk6t77Er8"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-24T11:34:06Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[ENG] 커피 한잔은 핑계고",
+        "description": "6년 전, 동네 주민인 태현이랑 커피 한잔 하자~ 했는데 그걸 지금에야 하네요?\n마침 연석이도 시간이 맞아 집 근처에서 모였는데요.\n\n사실 다~~ 핑계고🐓\n떠들어제끼는 걸로 멍뭉이판 한번 만들어 보려고 만났습니다🔥\n\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\n👇’뜬뜬’ 소식 보러가기\nhttps://instagram.com/ddeun._.ddeun\n\n#뜬뜬 #핑계고 #유재석 #차태현 #유연석 #커피\n.\n.\n*본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SRyk6t77Er8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SRyk6t77Er8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SRyk6t77Er8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SRyk6t77Er8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SRyk6t77Er8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-24T11:34:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Eu8j7-oOz9r4Qamh9v-cwX-1QGg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9l4ic0sDNUg"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-07T09:27:58Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[ENG] 100만 기념은 핑계고",
+        "description": "구독자분들의 사랑과 성원에 뜬뜬이 100만 구독자를 달성했습니다🔥\n이번 기회에 핑계고와 뺨뺨..아니 빰빰소셜클럽 각 프로그램 대표 등판해서\n토크로 붙어봤습니다.\n\n사실 다~~ 핑계고🐓\n\n뜬뜬에서 시간 되는 사람들끼리 떠들어제끼면서 함께 100만 자축했습니다~\n\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\n👇’뜬뜬’ 소식 보러가기\n[https://instagram.com/ddeun._.ddeun]\n#뜬뜬 #핑계고 #유재석 #주우재 #이용주 #몬스타엑스 #주헌 #100만\n\n- 본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9l4ic0sDNUg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9l4ic0sDNUg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9l4ic0sDNUg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9l4ic0sDNUg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9l4ic0sDNUg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-07T09:27:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y8wEtvTDb8WY4v02HxRpoRgbqys",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m4TzpZjabQM"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-07T12:24:55Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[ENG] 가짜의 삶은 핑계고",
+        "description": "제 주변에 ‘가짜의 삶’을 사는 대표적인 분들이 계세요.\n그분들과 ‘가짜의 삶’에 대해 논해보는 아주 심도깊고 귀한 시간 가져보려 합니다.\n\n사실 다~~ 핑계고🐓\n토크 좋아하는 사람들끼리 또 한사바리 떠들어제껴봤습니다.\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\n👇’뜬뜬’ 소식 보러가기\n[https://instagram.com/ddeun._.ddeun]\n#뜬뜬 #핑계고 #유재석 #지석진 #홍진경 #조세호 #가짜의삶\n\n*본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m4TzpZjabQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m4TzpZjabQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m4TzpZjabQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m4TzpZjabQM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m4TzpZjabQM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-07T12:24:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bLh-7JR6ZRx7nONI1HljZn0vmZY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XW3lAxx4AL8"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-06T09:02:56Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[ENG] 축하 파티는 핑계고",
+        "description": "39:37 ✨주우재 학부모 모임✨이 추천하는 콘텐츠 보러가기\n👉 https://youtu.be/-T2jC-oWlx0\n\nㅡㅡㅡ\n\n낼모레 석삼이 형 생일이고, \n국종이네 채널도 곧 구독자 수 300만 명이더라구요?\n이런 중요한 날에 축하가 빠지면 안되니까 \n다 같이 파티룸에 모여봤어요.\n\n사실 다~~ 핑계고🐓\n그냥 떠들어제끼려고 유튜브 좀 한다는 사람들 불러봤습니다.\n\nㅡㅡㅡ\n\n00:46, 43:01 피피엘 제품은 '비비고 한마리 고등어구이'입니다 (근데 물론 순살고등어도 참 맛있습니다)\n\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\n👇’뜬뜬’ 소식 보러가기\nhttps://instagram.com/ddeun._.ddeun\n\n#뜬뜬 #핑계고 #유재석 #지석진 #김종국 #축하파티\n.\n.\n*본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XW3lAxx4AL8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XW3lAxx4AL8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XW3lAxx4AL8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XW3lAxx4AL8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XW3lAxx4AL8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-06T09:02:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8G3vUiQQ1WNPIYKUmF90KMF9Z40",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "94IpRJfCXyA"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-20T09:33:15Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[ENG] 미스터리는 핑계고",
+        "description": "제가 정~말 좋아하고 미스터리에 일가견 있는 드라마 작가님이\n저희에게 긴히 알려줄 따끈따끈한 소식이 있다고 해서 자리 한번 마련해봤습니다.\n\n사실 다~~ 핑계고🐓\n\n작가님과 제일 친한♥ 감독 형까지 모여서\n토크로 아주 배부르게 떠들어제껴봤습니다.\n\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\n👇’뜬뜬’ 소식 보러가기\n[https://instagram.com/ddeun._.ddeun]\n#뜬뜬 #핑계고 #유재석 #김은희 #장항준 #미스터리\n\n- 본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/94IpRJfCXyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/94IpRJfCXyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/94IpRJfCXyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/94IpRJfCXyA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/94IpRJfCXyA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-20T09:33:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2o71PCIcfMlQbxNl6SuOryN0O18",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xQjkPhVgvRo"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-02T12:41:17Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[ENG] 조찬 모임은 핑계고",
+        "description": "토요일 오전 8시, 동생들이랑 조찬 모임 가져봤습니다.\n이 시대 교양인으로서 세계 경제에 대해 논해보려고 불렀는데\n사실 다~~ 핑계고🐓 \n이런 얘기~ 저런 얘기~ 떠들어제끼고 싶어서 만났습니다.\n\n00:00 혼자 떠들어제낌\n01:25 조찬모임 정시 시작했습니다\n07:24 조남지대의 낭만이 있는 아침\n14:44 유재석의 현실 아침\n21:08 조찬모임 흉내\n26:44 조남지대 킬링라이브\n29:23 형도 얼굴로 여기까지 온 거 아니잖아요\n32:25 토크 서비스 10분 추가\n34:17 MZ토크하다 2차 노래방\n36:51 토크 서비스 또또 추가\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\n👇’뜬뜬’ 소식 보러가기\nhttps://instagram.com/ddeun._.ddeun\n\n#뜬뜬 #핑계고 #유재석 #조세호 #남창희 #조찬모임\n.\n.\n*본 채널에 대한 허위사실과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xQjkPhVgvRo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xQjkPhVgvRo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xQjkPhVgvRo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xQjkPhVgvRo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xQjkPhVgvRo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-02T12:41:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jEk8j0W31DHpQNvn4s5n3rtEXqM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UXrlLtBhrTA"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-21T06:34:31Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[ENG] 봄맞이는 핑계고",
+        "description": "날도 따뜻해지고, 꽃도 피고 완연한 봄이 찾아왔어요.\n친한 동생들과 새출발하는 마음으로 함께 봄을 맞이해보려고요.\n\n사실 다~~ 핑계고🐓\n매주 보는 동생들이랑 못다 한 이야기가 많아서 아침부터 떠들어제껴봤습니다.\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\n👇’뜬뜬’ 소식 보러가기\n[https://instagram.com/ddeun._.ddeun]\n\n#뜬뜬 #핑계고 #유재석 #하하 #양세찬 #봄맞이\n\n본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UXrlLtBhrTA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UXrlLtBhrTA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UXrlLtBhrTA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UXrlLtBhrTA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UXrlLtBhrTA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-21T06:34:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aOWN0xjYKtno7PRAIXbW0afQfS8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZpaxVXeSmTY"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-10T07:12:51Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[ENG] 쿠폰 완성은 핑계고",
+        "description": "🙄: 이동욱 ‘소정의 情’ 쿠폰 언제 채우러 오나요?\nㄱㅖ원님들 궁금증도 해소시켜드리고~\n욱동이도 내심 불러주길 바랐을 것 같아 또 연락했습니다.\n\n사실 다~~ 핑계고🐓\n날도 덥고 호세, 창희까지 불러 시원~하게 떠들어제끼려고 주말 아침(a.k.a. 핑타임)에 모였습니다.\n\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\n👇’뜬뜬’ 소식 보러가기\n[https://instagram.com/ddeun._.ddeun]\n#뜬뜬 #핑계고 #유재석 #이동욱 #조세호 #남창희 #쿠폰완성\n\n- 본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZpaxVXeSmTY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZpaxVXeSmTY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZpaxVXeSmTY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZpaxVXeSmTY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZpaxVXeSmTY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-10T07:12:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "19al72wlGhWGm7vRGXE0Jq8Xu8k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZfOXJJN7nNk"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-10T15:55:41Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[EN/JP/ES] 편한 동생들은 핑계고",
+        "description": "동네에 편한 동생들을 초대해봤습니다.\n오랜만에 만나서 요즘 뭐하고 지내는지 정말 궁금했는데...\n\n사실 다~~ 핑계고🐓\n슈가랑 지민이도 그냥 떠들어제끼는 거 좋아한다네요?\n\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\n👇’뜬뜬’ 소식 보러가기\n[https://instagram.com/ddeun._.ddeun]\n#뜬뜬 #핑계고 #유재석 #지석진 #조세호 #BTS #슈가 #지민\n\n*본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZfOXJJN7nNk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZfOXJJN7nNk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZfOXJJN7nNk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZfOXJJN7nNk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZfOXJJN7nNk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-10T15:55:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QicnkbEmd5pMLwpnrB_cri9dNXo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W7uLhS9qfis"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-15T06:45:32Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[ENG] 피크닉은 핑계고",
+        "description": "MZ이고 싶은 석삼이 형과 광수 불러서 \n피크닉 문화 체험시켜줬습니다.\n\n사실 다~~ 핑계고🐓\n추워지기 전에 밖에서 떠들어제끼고 싶어서 만났습니다.\n\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\n👇’뜬뜬’ 소식 보러가기\nhttps://instagram.com/ddeun._.ddeun\n#뜬뜬 #핑계고 #유재석 #지석진 #이광수 #피크닉\n.\n.\n*본 채널에 대한 허위사실과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W7uLhS9qfis/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W7uLhS9qfis/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W7uLhS9qfis/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W7uLhS9qfis/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W7uLhS9qfis/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-15T06:45:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g9Xy9YAHKcTPDxWB85oL-vgrdKI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W7h5exjKWZ8"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-29T10:21:33Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[ENG] 신년모임은 핑계고",
+        "description": "ㄱ ㅖ묘년 새해, 다들 떡국은 드셨는지요?^^\n신년을 맞이해 목욕재ㄱㅖ하고 새해 목표도 세워보고자\n아침부터 진경이랑 조남지대 동생들을 만나봤는데요,\n\n사실 다~~ 핑계고🐓\n2023년 첫 재담을 기념하려 함께 떠들어제껴봤습니다.\n\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\n👇’뜬뜬’ 소식 보러가기\nhttps://instagram.com/ddeun._.ddeun\n\n#뜬뜬 #핑계고 #유재석 #홍진경 #조세호 #남창희 #신년모임\n.\n.\n*본 채널에 대한 허위사실과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W7h5exjKWZ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W7h5exjKWZ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W7h5exjKWZ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W7h5exjKWZ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W7h5exjKWZ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-29T10:21:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ks-kefZzpQYxbTGoNpZazYZWkHk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xForvQCUJB8"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T17:03:47Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[ENG] 작은 거인은 핑계고",
+        "description": "제 주변에 미니미하지만 누구보다 마음도 넓고 실력도 뛰어난 동생들이 있어요.\n‘작은 거인’ 같은 동생들과 미래 경제, 삶의 방향성과 가치관에 대해 이야기 나눠보려고요.\n\n사실 다~~ 핑계고🐓\n마침 다들 시간이 맞길래 모닝커피 마시며 떠들어제끼려고 만났습니다.\n\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\n👇’뜬뜬’ 소식 보러가기\n[https://instagram.com/ddeun._.ddeun]\n#뜬뜬 #핑계고 #유재석 #남창희 #양세형 #유병재 #작은거인\n\n- 본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xForvQCUJB8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xForvQCUJB8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xForvQCUJB8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xForvQCUJB8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xForvQCUJB8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T17:03:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PTTNxojqXlBYSIfg0oGI_kD6CG4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cdr5MvY4VgY"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-18T00:02:46Z",
+        "channelId": "UC78PMQprrZTbU0IlMDsYZPw",
+        "title": "(4시간) 성시경의 만날 텐데~😊 성(시경) 지(인) 순례 왔습니다 (부제; 만나서 먹을 텐데) | 온앤오프",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n#tvN #온앤오프 #또보겠zip\n📂 또 보고 싶어서 만들었.zip\n\n00:00 발라드계 레전드들의 만남\n20:14 온앤오프 팀 회식\n42:33 서울 새침이와 홍천 깜찍이\n51:34 허니왕자X버터왕자\n1:30:54 신성한 만남\n1:57:42 연예계 맛잘알들 모임\n2:08:31 79년생 동갑내기의 건강 데이\n2:29:42 성시경X엄정화 '초대'\n2:46:18 성.박.살의 바다 낚시 DAY\n3:13:03 시경X종국X하하, 운동 후 먹방\n\n*회차정보 : 7,10,11,12,14,16,21,22,32,37,40회\n\n#티빙에서스트리밍",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cdr5MvY4VgY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cdr5MvY4VgY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cdr5MvY4VgY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cdr5MvY4VgY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cdr5MvY4VgY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tvN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-18T00:02:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HxvdOU-TBH7PTBaLKg8fOKaN_Kk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "30_Z-81k5Aw"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-14T07:34:39Z",
+        "channelId": "UCQ2O-iftmnlfrBuNsUUTofQ",
+        "title": "키큰형이랑나불",
+        "description": "울림이 있는 나불 2편에서 계속\n\n[나불나불_차승원 1편 타임라인]\n\n00:05 예쁜 승워니형\n00:34 아는 체 좀\n01:31 딸바보 집돌이\n03:08 비커밍 강아지바보\n04:00 케어 팔자\n04:48 차승원의 포장포장\n05:32 맛집 아카이브 by 차\n07:38 생일파티 대장정\n08:25 희생하는 삶\n10:12 승워니형의 일탈\n11:02 세상에 단 3명의 남자만 남는다면\n12:22 충격고백 \"사실은...\"\n15:33 모델 차승원\n16:10 관계를 지켜나가는 방법\n17:08 차승원의 인생클럽1\n18:18 차승원의 인생클럽2\n19:36 차승원의 인생클럽3\n21:17 개봉 박두 영화들\n22:14 김대주 작가 선정 '승워니형 최고작'\n23:39 유년기 시절\n24:43 MBTI\n25:39 예니와의 통화♥️\n26:05 바탕화면은 무조건",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/30_Z-81k5Aw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/30_Z-81k5Aw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/30_Z-81k5Aw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/30_Z-81k5Aw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/30_Z-81k5Aw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "채널 십오야",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-14T07:34:39Z"
+      }
+    }
+  ]
+}
